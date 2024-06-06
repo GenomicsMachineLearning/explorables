@@ -39,6 +39,7 @@ A bit of theory on how to achieve this is outlined in [Up and Down the Ladder of
 * [The Data Visualisation Catalogue Blog](https://datavizcatalogue.com/blog/)
 * [Red Blog Games](https://www.redblobgames.com/)
 * [Awesome Explorables](https://github.com/blob42/awesome-explorables)
+* [Jason Davies](https://www.jasondavies.com/)
 
 ## Frameworks
 * [Observable](https://observablehq.com/explore)
