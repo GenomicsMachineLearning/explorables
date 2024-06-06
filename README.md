@@ -21,8 +21,8 @@ A bit of theory on how to achieve this is outlined in [Up and Down the Ladder of
 * [Best of Communicating with Interactive Articles](https://distill.pub/2020/communicating-with-interactive-articles/)
   * [Attacking discrimination with smarter machine learning](https://research.google.com/bigpicture/attacking-discrimination-in-ml/)
   * R2 D3 Series on Machine Learning:
-    * [A visual introduction to machine learning][http://www.r2d3.us/visual-intro-to-machine-learning-part-1/]
-    * [Model Tuning and the Bias-Variance Tradeoff][http://www.r2d3.us/visual-intro-to-machine-learning-part-2/]
+    * [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+    * [Model Tuning and the Bias-Variance Tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
   * [Understanding UMAP](https://pair-code.github.io/understanding-umap/)
   * [How You Will Die](https://flowingdata.com/2016/01/19/how-you-will-die/)
 * [Econ Graphs](https://www.econgraphs.org/)
