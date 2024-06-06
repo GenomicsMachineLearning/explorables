@@ -17,6 +17,7 @@ A bit of theory on how to achieve this is outlined in [Up and Down the Ladder of
   * [Visualizing Neural Networks with the Grand Tour](https://distill.pub/2020/grand-tour/)
   * [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
   * [Understanding Convolutions on Graphs](https://distill.pub/2021/understanding-gnns/)
+  * [A Discussion of Adversarial Examples Are Not Bugs, They Are Features](https://distill.pub/2019/advex-bugs-discussion/)
 * [Collective Dynamics of 'Small Worlds' Networks](https://worrydream.com/ScientificCommunicationAsSequentialArt/)
 * [Parable of the Polygons](https://ncase.me/polygons/)
 * [Best of Communicating with Interactive Articles](https://distill.pub/2020/communicating-with-interactive-articles/)
