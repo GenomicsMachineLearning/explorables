@@ -8,8 +8,9 @@ Based on the ideas presented by Brett Victor [and harvesting the links from that
 
 A bit of theory on how to achieve this is outlined in [Up and Down the Ladder of Abstraction](https://worrydream.com/LadderOfAbstraction/)
 
-## Explorable/Active Papers 
+## Explorables/Interactive Papers 
 * [Back to the Future of Handriting Recognition](https://jackschaedler.github.io/handwriting-recognition/)
+* [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/)
 * [Best of Next Journal](https://nextjournal.com/explore)
   * [SIR Model for  COVID-19:  Estimating R0](https://nextjournal.com/berwa/sir-model-for-covid-19-estimating-R_o)
 * [Best of Distll](https://distill.pub/)
@@ -27,7 +28,8 @@ A bit of theory on how to achieve this is outlined in [Up and Down the Ladder of
   * [How You Will Die](https://flowingdata.com/2016/01/19/how-you-will-die/)
 * [Econ Graphs](https://www.econgraphs.org/)
 * [Why Momentum Really Works - Gradient Descent](https://distill.pub/2017/momentum/)
-* [The Beginner's Guide to Dimensionality Reduction](https://dimensionality-reduction-293e465c2a3443e8941b016d.vercel.app/) 
+* [The Beginner's Guide to Dimensionality Reduction](https://dimensionality-reduction-293e465c2a3443e8941b016d.vercel.app/)
+* [Exploring Emergence: Contents](https://www.playfulinvention.com/emergence/contents.html) - from 1996 
 
 ## Sites
 * [Explorable Explanations](https://explorabl.es/)
