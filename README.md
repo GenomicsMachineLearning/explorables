@@ -9,7 +9,7 @@ Based on the ideas presented by Brett Victor (and harvesting the links from that
 A bit of theory on how to achieve this is outlined in (Up and Down the Ladder of Abstraction)[https://worrydream.com/LadderOfAbstraction/]
 
 ## Explorable/Active Papers 
-* (Back to the Future of Handriting Recognition)[https://jackschaedler.github.io/handwriting-recognition/]
+* [https://jackschaedler.github.io/handwriting-recognition/](Back to the Future of Handriting Recognition)
 * (Best of Next Journal)[https://nextjournal.com/explore]
   * (SIR Model for  COVID-19:  Estimating R0)[https://nextjournal.com/berwa/sir-model-for-covid-19-estimating-R_o]
 * (Best of Distll)[https://distill.pub/]
