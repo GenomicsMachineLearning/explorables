@@ -41,6 +41,7 @@ A bit of theory on how to achieve this is outlined in [Up and Down the Ladder of
 * [Red Blog Games](https://www.redblobgames.com/)
 * [Awesome Explorables](https://github.com/blob42/awesome-explorables)
 * [Jason Davies](https://www.jasondavies.com/)
+* [Flowing Data] - Learning and Projects (https://flowingdata.com/)
 
 ## Frameworks
 * [Observable](https://observablehq.com/explore)
