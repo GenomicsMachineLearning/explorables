@@ -13,7 +13,7 @@ A bit of theory on how to achieve this is outlined in [Up and Down the Ladder of
 * [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/)
 * [Best of Next Journal](https://nextjournal.com/explore)
   * [SIR Model for  COVID-19:  Estimating R0](https://nextjournal.com/berwa/sir-model-for-covid-19-estimating-R_o)
-* [Best of Distll](https://distill.pub/)
+* [Best of Distill](https://distill.pub/)
   * [Visualizing Neural Networks with the Grand Tour](https://distill.pub/2020/grand-tour/)
   * [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
   * [Understanding Convolutions on Graphs](https://distill.pub/2021/understanding-gnns/)
