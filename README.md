@@ -34,7 +34,7 @@ A bit of theory on how to achieve this is outlined in [Up and Down the Ladder of
 * [Exploring Emergence: Contents](https://www.playfulinvention.com/emergence/contents.html) - from 1996
 
 ## LLM Based
-* [NotebookLM](https://notebooklm.google/)
+* [NotebookLM](https://notebooklm.google/) - try it [here](https://notebooklm.google.com/)
 
 ## Sites
 * [Explorable Explanations](https://explorabl.es/)
