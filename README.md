@@ -43,6 +43,7 @@ Assistant—the Ultimate Tool for Thought?](https://every.to/chain-of-thought/is
   * [Biology](https://explorabl.es/biology/)
   * [Programming](https://explorabl.es/programming/)
 * [Distill Journal](https://distill.pub/)
+* [Data Viz Project](https://datavizproject.com/)
 * [The Data Visualisation Catalogue Blog](https://datavizcatalogue.com/blog/)
 * [Red Blog Games](https://www.redblobgames.com/)
 * [Awesome Explorables](https://github.com/blob42/awesome-explorables)
