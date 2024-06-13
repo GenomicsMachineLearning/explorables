@@ -35,6 +35,8 @@ A bit of theory on how to achieve this is outlined in [Up and Down the Ladder of
 
 ## LLM Based
 * [NotebookLM](https://notebooklm.google/) - try it [here](https://notebooklm.google.com/)
+ * Some coverage [Is NotebookLM—Google’s Research
+Assistant—the Ultimate Tool for Thought?](https://every.to/chain-of-thought/is-notebooklm-google-s-research-assistant-the-ultimate-tool-for-thought) - [Podcast](https://www.youtube.com/watch?v=8fiiWhma-iA)
 
 ## Sites
 * [Explorable Explanations](https://explorabl.es/)
