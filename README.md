@@ -31,7 +31,10 @@ A bit of theory on how to achieve this is outlined in [Up and Down the Ladder of
 * [Why Momentum Really Works - Gradient Descent](https://distill.pub/2017/momentum/)
 * [The Beginner's Guide to Dimensionality Reduction](https://dimensionality-reduction-293e465c2a3443e8941b016d.vercel.app/)
 * [ggplot Flipbook](https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html#1)
-* [Exploring Emergence: Contents](https://www.playfulinvention.com/emergence/contents.html) - from 1996 
+* [Exploring Emergence: Contents](https://www.playfulinvention.com/emergence/contents.html) - from 1996
+
+## LLM Based
+* [NotebookLM](https://notebooklm.google/)
 
 ## Sites
 * [Explorable Explanations](https://explorabl.es/)
